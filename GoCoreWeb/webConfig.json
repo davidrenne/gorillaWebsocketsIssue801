@@ -1,0 +1,36 @@
+{ 
+    "application": {
+        "TalkDirty": true, 
+        "allowCrossOriginRequests": true, 
+        "bootstrapData": true, 
+        "coreDebugStackTrace": false, 
+        "csrfSecret": "asdf", 
+        "customGinLogger": true, 
+        "disableRootIndex": true, 
+        "domain": "0.0.0.0",  
+        "htmlTemplates": {
+            "directory": "templates", 
+            "directoryLevels": 1, 
+            "enabled": false
+        }, 
+        "httpPort": 8090, 
+        "httpsPort": 443,  
+        "logGophers": false, 
+        "logJoinQueries": false, 
+        "logQueries": false, 
+        "logQueryStackTraces": false, 
+        "logQueryTimes": false, 
+        "mountGitWebHooks": false, 
+        "productName": "asdf", 
+        "releaseMode": "development",  
+        "serverFQDN": "0.0.0.0",  
+        "sessionExpirationDays": 3650, 
+        "sessionKey": "asdf", 
+        "sessionName": "asdfasdfasdf", 
+        "sessionSecureCookie": false, 
+        "versionNumeric": 1, 
+        "webServiceOnly": false
+    }, 
+    "dbConnections": [ 
+    ]
+}
